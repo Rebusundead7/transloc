@@ -1,4 +1,4 @@
-# Name Game Test Automation
+# Architect
 
 ### Tools
 - [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
@@ -20,6 +20,6 @@
   
 ### Running Tests
 - Intellij
-  - `test > java > com.willowtreeapps > WebTest`
+  - `test > java > com.transloc > WebTest`
   - Right click on any method tagged with `@Test`
   - Click on `Run 'test_...()`
